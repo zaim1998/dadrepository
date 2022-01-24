@@ -1,4 +1,4 @@
-public class arrayThread implements Runnable{
+public class ArrayThread implements Runnable{
 	
 	public void printData (String currentThread) {
 			

@@ -2,7 +2,7 @@ import java.util.List;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class randomText implements Runnable{
+public class RandomText implements Runnable{
 
 	public void printRandom (String currentThread) {
 		
